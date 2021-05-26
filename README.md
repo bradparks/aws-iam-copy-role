@@ -1,3 +1,5 @@
+blog article on this: https://www.maxivanov.io/copy-aws-iam-role/
+
 # Copy AWS IAM role
 
 This is a little script to help with creating a new IAM from from an existing one.
